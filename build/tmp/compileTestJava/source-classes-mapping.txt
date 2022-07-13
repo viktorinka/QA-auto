@@ -1,0 +1,14 @@
+myTest/CheckConsole.java
+ myTest.CheckConsole
+myTest/Search.java
+ myTest.Search
+myTest/DataTypes.java
+ myTest.DataTypes
+pages/components/CheckResult.java
+ pages.components.CheckResult
+pages/components/Calendar.java
+ pages.components.Calendar
+pages/RegistrationFormPages.java
+ pages.RegistrationFormPages
+myTest/MyFirstTest.java
+ myTest.MyFirstTest
